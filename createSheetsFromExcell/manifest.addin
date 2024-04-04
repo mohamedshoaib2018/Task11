@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Create Sheets02</Name>
+		<Assembly>createSheetsFromExcell.dll</Assembly>
+		<FullClassName>createSheetsFromExcell.RevitApp</FullClassName>
+		<Text>CreateSheets01</Text>
+		<Description>Addin Description</Description>
+		<AddInId>
+			B618A9D3-CD4F-4E4F-8A0C-B7754CC99AD5
+		</AddInId>
+		<VendorId>Moshmed Shoaib</VendorId>
+		<VendorDescription>BIM Developer, eng.mohamed,shoaib,business@gmail.com</VendorDescription>
+		
+	</AddIn>
+</RevitAddIns>
